@@ -25,7 +25,7 @@
     "material-icon-theme.files.associations": {
         "ormconfig.json": "database",
         "tsconfig.json": "tune"
-    }
+    },
     
     "background.enabled": true,
     "background.loop": false,
