@@ -1,7 +1,11 @@
 {
+
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "eslint.validate": ["javascript", "typescript"],
     "explorer.compactFolders": false,
     "workbench.startupEditor": "newUntitledFile",
-    "editor.formatOnSave": true,
     "javascript.updateImportsOnFileMove.enabled": "always",
     "typescript.updateImportsOnFileMove.enabled": "always",
     "settingsSync.ignoredSettings": [],
