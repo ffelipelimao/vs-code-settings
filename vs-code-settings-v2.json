@@ -1,0 +1,20 @@
+{
+    "workbench.startupEditor": "none",
+    "workbench.activityBar.location": "top",
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    
+    //dowload jetbrains mono in your computer
+    "editor.fontFamily": "JetBrains Mono",
+    
+    "symbols.hidesExplorerArrows": false,
+    "workbench.iconTheme": "symbols",
+    "gopls": { 
+        "ui.semanticTokens": true,
+        "formatting.gofumpt": true
+    },
+    "workbench.colorTheme": "Min Dark",
+    "[go]": {
+        "editor.defaultFormatter": "golang.go"
+    },
+}
